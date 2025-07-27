@@ -15,7 +15,7 @@
 - 📫 Reach me at: [abanoub.victor.gold@gmail.com](mailto:abanoub.victor.gold@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abanoub-victor/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBI73gWquF7MceY/giphy.gif" alt="Cybersecurity GIF" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJvYXMyMzV3Nm9rMGJuem1yaGtnMGdjNnAwazZnajB4a2xhY2JicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Cybersecurity GIF" width="300"/>
 </div>
 
 ---
