@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2 style="color: #00ff88; font-family: 'Arial', sans-serif;">
-    <span class="animated-text">Beginner Cybersecurity Engineer</span>
+    <span class="animated-text">Cybersecurity Engineer</span>
   </h2>
   <p>🔒 Passionate about securing networks and building tools to protect digital systems.</p>
 </div>
@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Learning **Python**, **Network Security**, **Cryptography**, and **Ethical Hacking**.
+- 🌱 Skilled in **Python**, **Network Security**, **Cryptography**, and **Ethical Hacking**.
 - 💻 Building projects like Password Strength Checkers and Port Scanners.
-- 📫 Reach me at: [abanoub.victor.gold@gmail.com](mailto:abanoub.victor.gold@gmail.com) | [LinkedIn](https://linkedin.com/in/abanoub.victor)
+- 📫 Reach me at: [abanoub.victor.gold@gmail.com](mailto:abanoub.victor.gold@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abanoub-victor/)
 
 <div align="center">
   <img src="https://media.giphy.com/media/26xBI73gWquF7MceY/giphy.gif" alt="Cybersecurity GIF" width="300"/>
@@ -37,24 +37,24 @@
       <td>
         <b>Password Strength Checker</b><br>
         A Python tool to evaluate password security.<br>
-        <a href="https://github.com/[abanoub-falcon]/password-checker">GitHub</a>
+        <a href="https://github.com/Abanoub-Falcon/password-checker">GitHub</a>
       </td>
       <td>
         <b>File Encryption Tool</b><br>
         Encrypts/decrypts files using Fernet in Python.<br>
-        <a href="https://github.com/[abanoub-falcon]/file-encryption">GitHub</a>
+        <a href="https://github.com/Abanoub-Falcon/file-encryption">GitHub</a>
       </td>
     </tr>
     <tr>
       <td>
         <b>Port Scanner</b><br>
         Scans for open ports on a target IP.<br>
-        <a href="https://github.com/[abanoub-falcon]/port-scanner">GitHub</a>
+        <a href="https://github.com/Abanoub-Falcon/port-scanner">GitHub</a>
       </td>
       <td>
         <b>My Portfolio</b><br>
         My cybersecurity portfolio hosted on GitHub Pages.<br>
-        <a href="https://[abanoub-falcon].github.io">Live Site</a>
+        <a href="https://Abanoub-Falcon.github.io">Live Site</a>
       </td>
     </tr>
   </table>
@@ -64,16 +64,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[abanoub-falcon]&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[abanoub-falcon]&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Falcon&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Falcon&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 📬 Connect with Me
 <div align="center">
-  <a href="https://github.com/[abanoub-falcon]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abanoub-Falcon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abanoub-victor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abanoub.victor.gold@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
@@ -81,7 +81,7 @@
 
 ### 🕵️‍♂️ Visitors
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[abanoub-falcon].[abanoub-falcon]" alt="Visitor Counter"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Falcon.Abanoub-Falcon" alt="Visitor Counter"/>
 </div>
 
 <style>
@@ -90,6 +90,7 @@
     animation: slideIn 2s ease-in-out infinite alternate;
     color: #00ff88;
     text-shadow: 0 0 10px #00ff88;
+    font-size: 1.5em;
   }
 
   @keyframes slideIn {
