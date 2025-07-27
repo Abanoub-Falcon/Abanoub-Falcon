@@ -62,14 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Falcon&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Falcon&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
 ### 📬 Connect with Me
 <div align="center">
   <a href="https://github.com/Abanoub-Falcon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -79,45 +71,4 @@
 
 ---
 
-### 🕵️‍♂️ Visitors
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Falcon.Abanoub-Falcon" alt="Visitor Counter"/>
-</div>
 
-<style>
-  .animated-text {
-    display: inline-block;
-    animation: slideIn 2s ease-in-out infinite alternate;
-    color: #00ff88;
-    text-shadow: 0 0 10px #00ff88;
-    font-size: 1.5em;
-  }
-
-  @keyframes slideIn {
-    0% { transform: translateY(0); }
-    100% { transform: translateY(-10px); }
-  }
-
-  table {
-    border-collapse: collapse;
-    width: 80%;
-    margin: 20px auto;
-  }
-
-  td {
-    padding: 10px;
-    text-align: center;
-    border: 1px solid #444;
-    background: #1a1a1a;
-    border-radius: 8px;
-  }
-
-  a {
-    color: #00ff88;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
